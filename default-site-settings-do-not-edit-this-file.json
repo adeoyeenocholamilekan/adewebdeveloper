@@ -45,7 +45,7 @@
 		"site_country": "Nigeria",
 		"site_url": "https://adewebdeveloperafrica.vercel.app",
 		"site_logo": "/logo.png",
-		"site_logo_light": "/logo-light.png",
+		"site_logo_light": "/logo.png",
 		"site_favicon": "/favicon.png"
 	},
 	"site_socials": [
@@ -64,7 +64,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2023 ChisNghiax Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2023 Adeweb Developer Africa, Inc. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -164,29 +164,29 @@
 		"title": "Lost your password?",
 		"sub_title": "Enter your email below to reset your password.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "It is not hard, just do it",
+			"author": "Adeoye Enoch Olamilekan"
 		}
 	},
 	"signUp_page": {
 		"title": "Create an account",
 		"sub_title": "Enter your email below to create your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "It is not hard, just do it",
+			"author": "Adeoye Enoch Olamilekan"
 		}
 	},
 	"signIn_page": {
 		"title": "Sign in to your account",
 		"sub_title": "Enter your email below to sign in to your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "It is not hard, just do it",
+			"author": "Adeoye Enoch Olamilekan"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
 			"message": "Lost password not implemented yet! Please contact admmin for support.",
-			"url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+			"url_lostpassword_default_of_wp": "https://money2.prizeworldhq.com.ng/wp-login.php?action=lostpassword"
 		}
 	},
 	"mobile_nav_sidebar": {
