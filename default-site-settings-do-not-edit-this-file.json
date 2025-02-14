@@ -19,10 +19,10 @@
 	},
 	"top_banner": {
 		"enable": true,
-		"description": "-50% Intro price for the next 72 hours only!.",
+		"description": "Welcome to Adeweb Developer Africa Blog!.",
 		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
-			"text": "Buy now  →",
+			"url": "https://adewebdeveloperafrica.vercel.app",
+			"text": "Visit portfolio  →",
 			"new_tab": true
 		}
 	},
@@ -32,18 +32,18 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
+		"site_title": "Adeweb Developer Africa Blog",
+		"site_description": "Adeweb Developer Africa Blog",
+		"site_keywords": "Adeweb Developer Africa Blog",
+		"site_author": "Adeweb Developer Africa",
+		"site_email": "adewebdeveloperng@gmail.com",
+		"site_phone": "+234 7043455416",
+		"site_address": "3 Adeyemi Odukomaya Street",
+		"site_city": "Magodo Shangisha",
+		"site_state": "Lagos Sstate",
+		"site_zip": "100001",
+		"site_country": "Nigeria",
+		"site_url": "https://adewebdeveloperafrica.vercel.app",
 		"site_logo": "/logo.png",
 		"site_logo_light": "/logo-light.png",
 		"site_favicon": "/favicon.png"
